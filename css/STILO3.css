@@ -1,0 +1,31 @@
+
+body{
+    background-image:url(https://img.freepik.com/vector-gratis/fondo-tecnologia-digital-alambre-malla-red_1017-27428.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat ;
+    background-size: 100%;
+}
+
+.padrenav{
+    background-color: yellow;
+    margin: 15px 480px;
+    display: flex;
+    justify-content: center;
+    height: 50px ;
+
+}
+.hijonav{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    padding-top: 16px;
+}
+.hijonav:hover{
+    background-color: red;
+    color: white;
+}
+h1.actividad3{
+    color: red;
+    text-align: center;
+}
+

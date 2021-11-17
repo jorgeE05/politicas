@@ -1,0 +1,10 @@
+h1{
+    background: salmon;
+    display: inline-block;
+}
+a{
+    background: salmon;
+    display: block; 
+    /*display es para controlar estructuras, cada elemento tiene valor display, este puede ser en block o en line
+    si es en block asi que el comportamieno del elemento quede en bloque,line hace que se alinie con otros elementos*/
+}

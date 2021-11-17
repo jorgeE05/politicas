@@ -1,0 +1,36 @@
+.padrenav{
+    background-color: yellow;
+    margin: 15px 480px;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+
+}
+.hijonav{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    padding-top: 16px;
+}
+.hijonav:hover{
+    background-color: red;
+    color: white;
+}
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2021/05/30/21/48/background-6297148_960_720.jpg);
+    background-repeat: no-repeat ;
+    background-size: 100%;
+}
+h1.titulo{
+    text-align: center;
+    color: yellow;
+}
+div.imagen{
+    justify-content: center;
+    margin: 50px 570px;
+}
+h2.testo{
+    text-align: center;
+    color: white;
+}

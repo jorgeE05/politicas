@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    color: white;
+}
+.actividad2{
+    color: red;
+    background-color: mediumspringgreen;
+    margin: 10px;
+}
+.puntos{
+    margin: 10px;
+    background-color: mediumvioletred;
+}
+.puntos2{
+    display: grid;
+    grid-template-areas: 
+    "a b";
+
+}
+.puntos3{
+    margin: 10px;
+}
+
+.columna1{
+    margin: 20px;
+
+}
+.r22{
+    margin: 10px;
+}
+
+.respuesta22{
+    text-align: center;
+    margin: 20px;
+    color: red;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+body{
+    background-image:url(https://img.freepik.com/vector-gratis/circuitos-fondo-digital-degradado-azul-rojo_23-2148821701.jpg?size=626&ext=jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.padrenav{
+    background-color: yellow;
+    margin: 15px 480px;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+
+}
+.hijonav{
+    margin-left: 10px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+    padding-top: 16px;
+}
+.hijonav:hover{
+    background-color: red;
+    color: white;
+}

@@ -1,0 +1,18 @@
+h1 {
+    color:blueviolet;
+    font-size: 50px;
+    /*font-zise es para determinar el tamaño en px(pixeles)*/
+}
+#unico{
+    color: aqua;
+    font-size:50px;
+}
+.azul{
+    color:red;
+    font-size: 100px;
+}
+.gg{
+    background: #444;
+    /*background es para determinar el fondo del texto*/ 
+}
+ 
